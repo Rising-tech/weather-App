@@ -4,13 +4,13 @@ This project is a web-based application that displays the weather and heat index
 
 # Features
 
-# Real-Time Weather Data: 
+Real-Time Weather Data: 
 The application fetches real-time weather information such as temperature, humidity, wind speed, and weather conditions for a specified city.
-# Heat Index Calculation: 
+Heat Index Calculation: 
 The heat index (also known as the "feels-like" temperature) is calculated based on the temperature and humidity levels. This gives users a better understanding of how hot it feels.
-# User Interface: 
+User Interface: 
 A responsive and visually appealing interface designed using HTML and CSS.
-# City Search Functionality:
+City Search Functionality:
 Users can search for any city to get its current weather and heat index.
-# Error Handling:
+Error Handling:
 The application provides feedback if the city is not found or if there are issues with retrieving the data.
